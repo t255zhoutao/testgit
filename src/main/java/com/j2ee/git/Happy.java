@@ -5,5 +5,6 @@ public class Happy {
 		System.out.println("rigth........");
 		System.out.println("left.........");
 		System.out.println("center.......");
+		System.out.println("??????");
 	}
 }
