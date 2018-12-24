@@ -4,7 +4,7 @@ public class Happy {
 	public static void main(String[] args){
 		System.out.println("rigth........");
 		System.out.println("left.........");
-		System.out.println("23456789.......");
+		System.out.println("123456789.......");
 		System.out.println("??????");
 	}
 }
